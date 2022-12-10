@@ -4,7 +4,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Project description
 
-This is a basic test of Nuxt in combination with tailwindcss. 
+This is a Nuxt ecommerce website, built in combination with tailwindcss
 
 ## Setup
 
